@@ -1,6 +1,6 @@
 # Awise
 
-#Introduction
+# Introduction
 
 After the covid pandemic, the number of interactions between people decreased significantly. As we are heading towards the end of the pandemic, people are returning to campus as the classes switched from online to in-person. It is true that the freshman and sophomore will have no hardships in finding roommates to live with as they live on campus and the roommates will be auto-assigned if he or she does not have a preference. But for the case of juniors and seniors and even grad students, it is hard to find roommates to live with as they have to know each other in order to find a roommate. Sharing the house with the roommate became more appealing as the rent price went through the roof. Sharing an apartment can not only lower the cost of the rent but also can act as a positive factor as sometimes students might be overwhelmed with the course work and need time off by speaking with their friends and in this case roommates. 
 
@@ -28,7 +28,7 @@ supposed to live off-campus. There are about 11,000 students of them at the Emor
 
 # Metrics:
 Number of successful matches
-# successful matches / # all people using the service (proportion of successful matching)
+successful matches / all people using the service (proportion of successful matching)
 Speed in which the app runs
 Rating of students related to satisfaction of roommate assignment
 
