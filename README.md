@@ -1,5 +1,7 @@
 # Awise
 
+Awise is committed to bringing outstanding off-campus housing experience for Emory students by creating a platform to find perfect roommates through preference tests and other matching algorithms. 
+
 # Introduction
 
 After the covid pandemic, the number of interactions between people decreased significantly. As we are heading towards the end of the pandemic, people are returning to campus as the classes switched from online to in-person. It is true that the freshman and sophomore will have no hardships in finding roommates to live with as they live on campus and the roommates will be auto-assigned if he or she does not have a preference. But for the case of juniors and seniors and even grad students, it is hard to find roommates to live with as they have to know each other in order to find a roommate. Sharing the house with the roommate became more appealing as the rent price went through the roof. Sharing an apartment can not only lower the cost of the rent but also can act as a positive factor as sometimes students might be overwhelmed with the course work and need time off by speaking with their friends and in this case roommates. 
@@ -7,9 +9,6 @@ After the covid pandemic, the number of interactions between people decreased si
 So our team “Awise” had come up with an idea to create a platform where users can put their roommate preferences. Just to give a brief introduction of the features that our product is aiming is first through user authentication, our platform can determine whether the student is actually enrolled in Emory or not. Then after this authentication process, there is a filter that users can input, for example, a personality test, a number of roommates, age, gender, amount of rent users are willing to pay and etc. After the process of screening, the user will be matched with another user based on the preference he or she had input. The metrics that our platform is going to use are if both users have more than 85% of the match. Based on the psychological study conducted, researchers claimed that there is a high possibility that two people will have a good relationship if he or she has a more than 75% of common grounds. 
 
 To conclude, through our “Awise” platform, we will provide a service that decreases the amount of time spent on finding a roommate. It will not only decrease the effort in finding a roommate but at the same time, it will increase the likelihood for the users to find a roommate he or she likes. 
-
-# Mission Statement
-Awise is committed to bringing outstanding off-campus housing experience for Emory students by creating a platform to find perfect roommates through preference tests and other matching algorithms. 
 
 # Vision Statement: 
 A good life quality starts with having a comfortable home to live in.
