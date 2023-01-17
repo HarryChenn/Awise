@@ -23,30 +23,4 @@ This project fills the gap where off-campus students had difficulty in finding d
 
 # Customers and Users:
 The customer for this project is the junior, senior, and graduate students who are 
-supposed to live off-campus. There are about 11,000 students of them at the Emory University.
-
-# Metrics:
-Number of successful matches
-successful matches / all people using the service (proportion of successful matching)
-Speed in which the app runs
-Rating of students related to satisfaction of roommate assignment
-
-# Milestones:
-Assignment of team roles and the decision of techniques used (framework, technical components, etc.) by mid-September 
-Demo software by late September
-Primary features implemented (roommate matching) by late October
-All features and functionalities will be implemented (user authentication) by early November 
-Overall testing by late November 
-Software Deployment by late November 
-
-# Resources:
-We need a server that can handle 11000 visitors a day (max). 
-We need 7 developers to work part-time on this project for 3 month.
-We need software frameworks that can support our demand of 11000 visitors a day.
-We need a robust algorithm to match roommates (high precision) for different sizes of groups among a large variety of people.
-
-# Risks:
-Development takes longer than expected. 
-Similar ideas being concurrently developed. 
-Not all members are full-stack, so front end stories will go slower.  
-
+supposed to live off-campus.
